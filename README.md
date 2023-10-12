@@ -27,7 +27,7 @@ A heatmap showing the hourly distribution of crime by day of the week.
 A map showing the distribution of crime by police district, averaged over the six-year period.
 The dashboard shows that crime rates are highest in the early morning hours, between 2am and 6am. The top 10 hours for crime are all between 2am and 6am, with 3am being the most common hour for crime. Crime rates are also higher on weekends than on weekdays. The map shows that crime rates are highest in the Tenderloin police district.
 
-![Dashboard 3](https://github.com/imsruthi/Tableauu/blob/d55319807e15e456a6219ec2c7401a1e9e503abd/Dashboard%205.png)
+![Dashboard 3](https://github.com/imsruthi/Tableauu/blob/083a1a150a3957ae0936a5750ffbf31ab30860fc/Dashboard%203.png)
 This Tableau dashboard provides a comprehensive overview of the hourly crime rate patterns in San Francisco from 2017 to 2023. The dashboard includes two sheets:
 
 Hourly Crime Rate: This sheet shows the hourly distribution of crime, averaged over the six-year period. It also shows the top 10 hours for crime, averaged over the six-year period.
