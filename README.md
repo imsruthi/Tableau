@@ -17,7 +17,7 @@ The sixth sheet, "Sheet 6", shows the trend in sale prices for residential prope
 Overall, the 6 sheets in the dashboard provide a comprehensive and insightful overview of the real estate market in the United States from 2016 to 2023. The dashboard shows that assessed values have increased steadily over time and that they are a good proxy for market value. Sale prices have also increased steadily over time.
 
 # Hourly Pattern of Crime Rate in San Francisco
-![Dashboard 2](https://github.com/imsruthi/Tableauu/blob/d55319807e15e456a6219ec2c7401a1e9e503abd/Dashboard%205.png)
+![Dashboard 2](https://github.com/imsruthi/Tableauu/blob/1589d81ee77207aa7f22c7698eb16c4f25b90388/Dashboard%202.png)
 
 This Tableau dashboard provides a comprehensive overview of the hourly pattern of crime rate in San Francisco from 2017 to 2023. The dashboard includes a variety of visualizations, including:
 
