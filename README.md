@@ -43,3 +43,9 @@ Crime Rate Distribution by Neighborhood: This sheet shows a map of San Francisco
 Crime Rate Distribution by Incident Category: This sheet shows a bar chart of the crime rate distribution by incident category. The incident categories with the highest crime rates are shown at the top of the bar chart, while the incident categories with the lowest crime rates are shown at the bottom of the bar chart.
 The dashboard shows that the crime rate distribution in San Francisco neighborhoods varies widely. The neighborhoods with the highest crime rates are located in the downtown and Tenderloin areas, while the neighborhoods with the lowest crime rates are located in the Sunset and Richmond districts. The dashboard also shows that the most common incident categories are larceny theft and assault.
 
+![Dashboard 5](https://github.com/imsruthi/Tableauu/blob/83dce4c32c171f6b286e41cfd448b0f879a54bd2/Dashboard%205.png)
+The dashboard includes two sheets:
+
+Crime Rate Distribution by Neighborhood: This sheet shows a map of San Francisco with color-coded neighborhoods based on their crime rate. The neighborhoods with the highest crime rates are colored red, while the neighborhoods with the lowest crime rates are colored green.
+Crime Rate Trends by Neighborhood: This sheet shows a line chart of the crime rate trends by neighborhood from 2017 to 2023. The line charts show how the crime rate has changed in each neighborhood over the past six years.
+The dashboard shows that the crime rate distribution in San Francisco neighborhoods varies widely. The neighborhoods with the highest crime rates are located in the downtown and Tenderloin areas, while the neighborhoods with the lowest crime rates are located in the Sunset and Richmond districts. The dashboard also shows that the crime rate has decreased in most neighborhoods over the past six years, but it has increased in some neighborhoods, such as the Mission District.
