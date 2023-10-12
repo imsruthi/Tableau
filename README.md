@@ -1,4 +1,5 @@
 # Tableau Real Estate Market Overview
+I created this Tableau dashboard to provide a comprehensive overview of the real estate market in the United States from 2016 to 2023. The dashboard includes a variety of visualizations that show the average assessed value of property by property class, the trend in assessed values over time, the distribution of assessed values by state, and the relationship between assessed values and sale prices and property taxes for residential property.
 ![Dashboard 1](https://github.com/imsruthi/Tableauu/assets/128511364/28a5e3d2-3714-4973-92ee-3788030a604d)
 The 6 sheets in the dashboard provide a comprehensive overview of the real estate market in the United States from 2016 to 2023. The dashboard includes a variety of visualizations, including a bar chart showing the average assessed value of property by property class, a line chart showing the trend in assessed values over time, and a map showing the distribution of assessed values by state.
 
@@ -17,6 +18,16 @@ The sixth sheet, "Sheet 6", shows the trend in sale prices for residential prope
 Overall, the 6 sheets in the dashboard provide a comprehensive and insightful overview of the real estate market in the United States from 2016 to 2023. The dashboard shows that assessed values have increased steadily over time and that they are a good proxy for market value. Sale prices have also increased steadily over time.
 
 # Hourly Pattern of Crime Rate in San Francisco
+This is a data visualization project that uses Tableau to explore the crime rate patterns and trends in San Francisco from 2017 to 2023.
+
+The goal of the assignment is to:
+
+Gain an understanding of the crime rate distribution in San Francisco neighborhoods.
+Identify trends in crime rates over time.
+Explore the relationship between crime rates and other factors, such as poverty and unemployment.
+Create a Tableau dashboard that communicates the findings of the analysis to a variety of audiences.
+To complete the assignment, I cleaned and prepared the crime data, created a Tableau dashboard with a variety of visualizations, and wrote a description for the dashboard that explains the purpose, key findings, and how to interpret the visualizations.
+
 ![Dashboard 2](https://github.com/imsruthi/Tableauu/blob/1589d81ee77207aa7f22c7698eb16c4f25b90388/Dashboard%202.png)
 
 This Tableau dashboard provides a comprehensive overview of the hourly pattern of crime rate in San Francisco from 2017 to 2023. The dashboard includes a variety of visualizations, including:
@@ -57,3 +68,6 @@ Crime Rate Distribution by Neighborhood: This sheet shows a map of San Francisco
 Crime Rate Trends by Neighborhood: This sheet shows a line chart of the crime rate trends by neighborhood from 2017 to 2023. The line charts show how the crime rate has changed in each neighborhood over the past six years.
 Crime Rate Trends by Incident Category: This sheet shows a bar chart of the crime rate trends by incident category from 2017 to 2023. The incident categories with the highest crime rates are shown at the top of the bar chart, while the incident categories with the lowest crime rates are shown at the bottom of the bar chart.
 The dashboard shows that the crime rate distribution in San Francisco neighborhoods varies widely. The neighborhoods with the highest crime rates are located in the downtown and Tenderloin areas, while the neighborhoods with the lowest crime rates are located in the Sunset and Richmond districts. The dashboard also shows that the crime rate has decreased in most neighborhoods over the past six years, but it has increased in some neighborhoods, such as the Mission District.
+
+Conclusion:
+This Tableau dashboard provides a comprehensive overview of the crime rate patterns and trends in San Francisco from 2017 to 2023. The dashboard shows that the crime rate distribution in San Francisco neighborhoods varies widely, and that the crime rate has decreased in most neighborhoods over the past six years. However, the crime rate has increased in some neighborhoods and for certain incident categories. This dashboard is a valuable resource for anyone who is interested in learning more about crime rate patterns and trends in San Francisco neighborhoods.
