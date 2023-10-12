@@ -35,3 +35,11 @@ Hourly Crime Rate by Day of the Week: This sheet shows a heatmap of the hourly d
 The dashboard shows that crime rates are highest in the early morning hours, between 2am and 6am. The top 10 hours for crime are all between 2am and 6am, with 3am being the most common hour for crime. Crime rates are also higher on weekends than on weekdays.
 
 The dashboard also shows that the hourly distribution of crime varies by day of the week. For example, crime rates are highest on Saturday nights and Sunday mornings.
+
+![Dashboard 4](https://github.com/imsruthi/Tableauu/blob/a7a64620be06e1d44f9a50457650c1e0d406426a/Dashboard%204.png)
+This Tableau dashboard provides a comprehensive overview of the crime rate distribution in San Francisco neighborhoods from 2017 to 2023. The dashboard includes two sheets:
+
+Crime Rate Distribution by Neighborhood: This sheet shows a map of San Francisco with color-coded neighborhoods based on their crime rate. The neighborhoods with the highest crime rates are colored red, while the neighborhoods with the lowest crime rates are colored green.
+Crime Rate Distribution by Incident Category: This sheet shows a bar chart of the crime rate distribution by incident category. The incident categories with the highest crime rates are shown at the top of the bar chart, while the incident categories with the lowest crime rates are shown at the bottom of the bar chart.
+The dashboard shows that the crime rate distribution in San Francisco neighborhoods varies widely. The neighborhoods with the highest crime rates are located in the downtown and Tenderloin areas, while the neighborhoods with the lowest crime rates are located in the Sunset and Richmond districts. The dashboard also shows that the most common incident categories are larceny theft and assault.
+
